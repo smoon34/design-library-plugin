@@ -21,3 +21,4 @@ Notes and usage details for design-library-plugin.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
