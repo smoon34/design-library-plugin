@@ -13,3 +13,4 @@ Design Library makes it easy for developers to build complex and consistent inte
 // drop an unused branch
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
